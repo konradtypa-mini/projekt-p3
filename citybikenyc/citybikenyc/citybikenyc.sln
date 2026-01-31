@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citybikenyc", "citybikenyc.csproj", "{B3FC4668-C25B-4528-AA99-B0A79D7E4C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FC4668-C25B-4528-AA99-B0A79D7E4C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FC4668-C25B-4528-AA99-B0A79D7E4C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FC4668-C25B-4528-AA99-B0A79D7E4C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FC4668-C25B-4528-AA99-B0A79D7E4C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
